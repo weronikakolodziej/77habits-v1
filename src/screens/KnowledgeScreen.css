@@ -1,0 +1,40 @@
+.knowledge-screen-container {
+  padding: 24px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.header {
+  position: relative;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.back-button {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.article-list {
+  background-color: #242424;
+  padding: 16px;
+  border-radius: 12px;
+}
+
+.placeholder {
+  font-size: 16px;
+  color: #a0a0a0;
+  margin: 0;
+}

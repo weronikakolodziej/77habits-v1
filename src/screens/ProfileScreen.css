@@ -1,0 +1,38 @@
+.profile-screen-container {
+  padding: 24px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.header {
+  position: relative;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.back-button {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.section {
+  margin-bottom: 32px;
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 0 16px 0;
+}
